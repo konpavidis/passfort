@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+/src/key.bin
+/src/passwords.json
+*.pdb
+**/*.rs.bk
